@@ -1,0 +1,11 @@
+C:\Users\franc\Desktop\AttAvaliativa_Encapsulamento\bin\Debug\AttAvaliativa_Encapsulamento.exe.config
+C:\Users\franc\Desktop\AttAvaliativa_Encapsulamento\bin\Debug\AttAvaliativa_Encapsulamento.exe
+C:\Users\franc\Desktop\AttAvaliativa_Encapsulamento\bin\Debug\AttAvaliativa_Encapsulamento.pdb
+C:\Users\franc\Desktop\AttAvaliativa_Encapsulamento\obj\Debug\AttAvaliativa_Encapsulamento.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\AttAvaliativa_Encapsulamento\obj\Debug\AttAvaliativa_Encapsulamento.frm_Categorias.resources
+C:\Users\franc\Desktop\AttAvaliativa_Encapsulamento\obj\Debug\AttAvaliativa_Encapsulamento.Properties.Resources.resources
+C:\Users\franc\Desktop\AttAvaliativa_Encapsulamento\obj\Debug\AttAvaliativa_Encapsulamento.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\AttAvaliativa_Encapsulamento\obj\Debug\AttAvaliativa_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\AttAvaliativa_Encapsulamento\obj\Debug\AttAvaliativa_Encapsulamento.exe
+C:\Users\franc\Desktop\AttAvaliativa_Encapsulamento\obj\Debug\AttAvaliativa_Encapsulamento.pdb
+C:\Users\franc\Desktop\AttAvaliativa_Encapsulamento\obj\Debug\AttAvaliativa_Encapsulamento.frm_Entrada.resources

@@ -1,0 +1,12 @@
+C:\Users\franc\Desktop\AttAvaliativa_Heranca\bin\Debug\AttAvaliativa_Heranca.exe.config
+C:\Users\franc\Desktop\AttAvaliativa_Heranca\bin\Debug\AttAvaliativa_Heranca.exe
+C:\Users\franc\Desktop\AttAvaliativa_Heranca\bin\Debug\AttAvaliativa_Heranca.pdb
+C:\Users\franc\Desktop\AttAvaliativa_Heranca\obj\Debug\AttAvaliativa_Heranca.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\AttAvaliativa_Heranca\obj\Debug\AttAvaliativa_Heranca.frm_CadastroFisica.resources
+C:\Users\franc\Desktop\AttAvaliativa_Heranca\obj\Debug\AttAvaliativa_Heranca.frm_CadastroJuridica.resources
+C:\Users\franc\Desktop\AttAvaliativa_Heranca\obj\Debug\AttAvaliativa_Heranca.Properties.Resources.resources
+C:\Users\franc\Desktop\AttAvaliativa_Heranca\obj\Debug\AttAvaliativa_Heranca.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\AttAvaliativa_Heranca\obj\Debug\AttAvaliativa_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\AttAvaliativa_Heranca\obj\Debug\AttAvaliativa_Heranca.exe
+C:\Users\franc\Desktop\AttAvaliativa_Heranca\obj\Debug\AttAvaliativa_Heranca.pdb
+C:\Users\franc\Desktop\AttAvaliativa_Heranca\obj\Debug\AttAvaliativa_Heranca.frm_Entrada.resources
